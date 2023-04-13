@@ -96,6 +96,9 @@ nav a:hover {
    
    
 }
+.first_area .contact a {
+    text-decoration: none;
+}
 
 .first_area .contact p {
     background-color: var(--maincolor);
